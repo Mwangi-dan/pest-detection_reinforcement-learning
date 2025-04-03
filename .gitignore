@@ -1,0 +1,5 @@
+__pycache__/
+dqn_pest_log/*
+models/
+/dqn_*
+/ppo_*

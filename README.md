@@ -1,1 +1,1 @@
-# Pest Detction Reinforcement learning
+# Pest Detection Reinforcement learning
